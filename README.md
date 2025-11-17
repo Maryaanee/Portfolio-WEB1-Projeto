@@ -1,4 +1,4 @@
-# 🌷✨ Portfólio Pessoal — Francisca Mariane ✨🌷
+# 🌷✨ Portfólio Pessoal — Mariane ✨🌷
 
 ## 🌸 Sobre o Projeto
 
