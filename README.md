@@ -15,5 +15,5 @@ Este projeto foi desenvolvido para a disciplina **Desenvolvimento Web I**, lecio
 
 ## ✨ Aluna
 
-**Francisca Mariane Sousa da Silva - Turma S4**  
+**Francisca Mariane Sousa da Silva - Turma S4 - 2025.2**  
 **IFCE — Campus Maranguape**
